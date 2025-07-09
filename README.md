@@ -44,7 +44,7 @@ The end goal is to build a full-stack web-based portfolio management tool that i
 
 - 📈 Dynamic Portfolio Construction
 - 🔍 Regime-Based Strategy Switching
-- 📊 Risk Metric Tracking (Sharpe, Sortino, Drawdown)
+- 📊 Risk Metric Tracking (Sharpe ratio, Sortino ratio, Drawdown)
 - 🧠 Intelligent Clustering (e.g., K-Means, Hierarchical)
 - 🌐 Integration-Ready for Django Dashboard
 - 🛡️ Risk Management:  
