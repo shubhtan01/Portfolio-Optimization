@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 > **Supervised by:** Prof. Somy Thomas, IIM Kozhikode  
-> **Developed by:** Anurag Thakur , Harshvardhan Guar, Ayush Omer, Keshav Bansal 
+> **Developed by:** Anurag Thakur , Harshvardhan Guar, Ayush Omer, Keshav Bansal, Shubh Tandon 
 > **Timeline:** Jan 2025 – Present
 
 ---
